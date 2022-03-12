@@ -1,0 +1,16 @@
+1. chao walk/wander around X
+2. you can pick up the chao---
+if chao clicked, move to hand position
+switch state to on picked up
+3. chao can interact with one another if they collide
+    - type of interaction depends on chao metadata--such as personality traits
+4. they can interact with the player--they might run away if they hate the player
+
+if hungry 
+look for food
+
+
+
+
+features to add
+* online multiplayer/coop
